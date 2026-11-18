@@ -1,0 +1,6 @@
+{
+  "name": "routeur-modele",
+  "version": "0.1.0",
+  "description": "Choisit Haiku, Sonnet ou Opus pour chaque demande selon sa difficulté (classement par Haiku).",
+  "license": "MIT"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "routeur-modele",
+  "owner": { "name": "Badicevice" },
+  "plugins": [{ "name": "routeur-modele", "source": "./" }]
+}
